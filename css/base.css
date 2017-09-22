@@ -24,8 +24,11 @@ header p,header h1{
 	vertical-align: middle;
 	margin-left: 30px;
 	background: url('../image/hd_l.png') no-repeat left center;
-	padding-left: 1.25rem;
 	background-size: 1.05rem 0.95rem;
+	padding-left: 1.25rem;
+	height: 0.95rem;
+	line-height: 0.95rem;
+	display: inline-block;
 }
 header h1{
 	width: 12.75rem;
@@ -37,6 +40,7 @@ header h1 a{
 	display: block;
 	height: 2.25rem;
 	line-height: 2.25rem;
+	margin-left: -2rem
 }
 header h1 p{
 	font-size: 0.85rem;
@@ -45,8 +49,7 @@ header h1 p{
 	line-height: 2.25rem;
 }
 .head_a2{
-	width: 1.7rem;
-	float: right;
+	float: left;
 	height: 2.25rem;
 	line-height: 2.25rem;
 }

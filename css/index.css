@@ -2,7 +2,7 @@
 	margin: 0;padding: 0;
 }
 .swiper-container{
-	height: 6.775rem;
+	height: 7.925rem;
 }
 .swiper-container img{
 	width: 18.0rem;
@@ -20,6 +20,7 @@
 #swiper-container .swiper-pagination-bullet{
 	opacity: 1;
 	background: #fff;
+	margin:0 0.125rem
 }
 #swiper-container .swiper-pagination-bullet-active {
     background: #e62929;
