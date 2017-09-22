@@ -93,6 +93,9 @@ nav{
 	margin-top: 0.5rem;
 	display: inline-block;
 }
+.imp{
+	color: #e62929!important
+}
 .zg-main{
 	width: 18.0rem;
 	overflow: hidden;
@@ -157,6 +160,12 @@ nav{
 }
 .m1-cc2 li span{
 	color: #e62929
+}
+.m1-cc2 li a{
+	width: 13.85rem;
+	white-space:nowrap; 
+	overflow:hidden;
+	text-overflow:ellipsis;
 }
 .btn-box{
 	width: 17.5rem;
